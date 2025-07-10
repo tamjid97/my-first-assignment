@@ -26,6 +26,9 @@
   font-weight: 700;
 }
 .sign-up-btn:hover { background-color: #db0b0b; }
+.sign-up-btn:hover {
+  cursor: pointer;
+}
 
   /* stay-btn */
     .stay-btn{
@@ -43,6 +46,9 @@
 
   }
   .stay-btn:hover { background-color: #0bdb1c; }
+  .stay-btn:hover {
+  cursor: pointer;
+}
 
 
   
@@ -95,5 +101,39 @@ span{
 
   }
   .live{
-    color: #252432 50;
+    color: #666;
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 24px;
   }
+
+  .lauch-btn{
+    width: 229px;
+  height: 48px;
+  color: #FFFFFF;
+  background-color: #4E47FF;
+  padding: 14px 36px;
+  border-radius: 10px;
+  font-size: 14px;
+  border: none;
+  font-weight: 700;
+  /* margin: 0px 250px 100px 0px; */
+  
+
+  }
+  .lauch-btn:hover { background-color: #0bdb1c;
+      
+  }
+  .lauch-btn:hover {
+  cursor: pointer;
+}
+
+  .wc-mini{
+    border-radius: 48px;
+  }
+  
+  #see-it{
+    margin: 0px 200px 10px 200px;
+  }
+
+  

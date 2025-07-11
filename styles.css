@@ -162,7 +162,7 @@ span{
     height: 97px;
     font-size: 80px;
     font-weight: 700;
-    margin-top: 6px;
+    margin-top: 56px;
 
 
   }
@@ -173,8 +173,60 @@ height: 24px;
 font-size: 14px;
 font-weight: 500;
 margin-top: -70px;
+margin-bottom: 50px;
 color: #666;
-
-
-
   }
+
+  /* section-3 */
+  .what-our{
+    justify-content: center;
+    font-size: 50px;
+    margin: -7px 700px ;
+    font-weight: 700;
+  }
+
+  .main-card{
+    background-color: #fcf8f8;
+    border-radius: 20px;
+    padding: 50px;
+    margin: 80px 100px 20px 100px;
+    
+  }
+
+.abba-card{
+  display: flex;
+  justify-content: space-between;
+}
+
+.avatar-op{
+  border-radius: 9999px;
+  max-width: 40px;
+  max-height: 40px;
+  margin-top: 10px;
+}
+.data{
+display: flex;
+margin-top: -18px;
+}
+.name{
+  margin: -5px 10px -5px 10px;
+}
+.datas{
+margin-top: -18px;
+color: #B3B3B3;
+}
+.review{
+  color: #757575;
+
+}
+
+.loved{
+font-size: 22px;
+}
+.this{
+width: 318px;
+height: 44px;
+color: #1E1E1E;
+margin-top: -5px;
+}
+

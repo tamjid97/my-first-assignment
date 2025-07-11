@@ -65,7 +65,7 @@ nav{
 
 header{
 background-image: url(Assets/Hero-bg.png);
-  
+
 }
 .text-dcs{
   font-size: 45px;
@@ -232,7 +232,7 @@ margin-top: -5px;
 
 /* section-4 */
 .redy-main{
-  background-color: #fcf8f8;
+  /* background-color: #fcf8f8; */
     border-radius: 20px;
     padding: 50px;
     margin: 80px 100px 20px 100px;
@@ -323,3 +323,52 @@ margin-top: -5px;
         
   }
   
+  /* footer */
+  .logol{
+    
+    justify-content: space-between;
+    /* background-color: #fcf8f8; */
+    border-radius: 20px;
+    padding: 50px;
+    margin: 80px 100px 20px 100px;
+
+
+  }
+    .lolog{
+    width: 291px;
+    height: 121px;
+    color: #4E47FF;
+    font-size: 100px;
+    margin: -10px 200px 20px 600px;
+
+    }
+
+    .ratr{
+      color: #8987A1;
+      font-size: 19px;
+      margin:-1px 200px auto 450px;
+    }
+    .tata{
+      color: #8987A1;
+      font-size: 19px;
+      margin:-1px 200px auto 470px;
+    }
+
+    
+
+    .nav-last {
+  display: flex;
+  gap: 50px;
+  margin: 20px 550px;
+
+}
+
+.nav-last a {
+  text-decoration: none;
+  color: #555;
+  font-weight: 500;
+}
+
+.nav-last a:hover {
+  color: rgb(255, 0, 0);
+}

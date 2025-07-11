@@ -136,4 +136,45 @@ span{
     margin: 0px 200px 10px 200px;
   }
 
-  
+  /* section-2 */
+  #section-2{
+    background-color: #e4e4fa;
+    border-radius: 24px;
+    margin: 150px;
+  }
+  .Joined{
+    height: 29px;
+    width: 692px;
+    color: #252432;
+    font-size: 36px;
+
+    margin: -20px 60px 10px 60px;
+    padding: 70px 20px 20px 400px;
+
+  }
+  .abbai-ppl{
+    display: flex;
+    justify-content: space-around;
+  }
+  .milion{
+    color: #4E47FF;
+    width: 162px;
+    height: 97px;
+    font-size: 80px;
+    font-weight: 700;
+    margin-top: 6px;
+
+
+  }
+
+  .activ{
+width: 120px;
+height: 24px;
+font-size: 14px;
+font-weight: 500;
+margin-top: -70px;
+color: #666;
+
+
+
+  }

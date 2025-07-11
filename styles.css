@@ -271,3 +271,55 @@ margin-top: -5px;
     border-radius: 48px;
     margin: -3px 10px auto 250px;
   }
+/* section-5 */
+  .from-abba{
+    display: flex;
+    justify-content: space-between;
+    background-color: #fcf8f8;
+    border-radius: 20px;
+    padding: 50px;
+    margin: 80px 100px 20px 100px;
+
+  }
+
+  .get{
+    font-size: 97px;
+    font-weight: 700;
+  }
+
+  .gat-in-btn{
+    width: 270px;
+  height: 40px;
+  color: #FFFFFF;
+  background-color: #4E47FF;
+  padding: 12px 80px;
+  border-radius: 12px;
+  font-size: 18px;
+  border: none;
+  font-weight: 700;
+  margin:   60px 100px 20px 0px;
+  text-align: center;
+}
+  
+
+  .gat-in-btn:hover { background-color: #0bdb1c; }
+  .gat-in-btn:hover {
+  cursor: pointer;
+  }
+  .epick{
+    padding: 20px 100px;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+
+
+  }
+
+  .eeeee{
+    padding: 0px 70px;
+      border-radius: 10px;
+      border: none;
+        font-size: 18px;
+        
+  }
+  
